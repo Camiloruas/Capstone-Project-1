@@ -1,6 +1,6 @@
 
   .container {
-    display: ;
+    margin-top: 200px;
     justify-content: center;
     text-align: center;
   }
@@ -21,7 +21,7 @@
   } 
         html 
         {
-            background-color: #f1f3f5;
+            background-color:98D2C0;
             font-family: "Tangerine", serif;
 
         }
@@ -71,21 +71,20 @@
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        ul, {
-    padding: 0;
-    margin: 0;
-    list-style: none; 
+        ul{
+    padding: 1px;
+    margin: 5px;
     content: "✓";
         }
 
     ol{
     padding: 0;
-    list-style: none;
+   
     
     }
 
 #cabeçalho {
-background-color: rgb(135, 206, 228);
+background-color:#F6F8D5;
 }
 
 
