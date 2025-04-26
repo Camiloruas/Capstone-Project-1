@@ -64,7 +64,9 @@ Modern and Clean Interface: Styled with CSS.
 Technologies Used
 
 TML5: For structuring the website's content.
+
 CSS3: For styling, including flexbox/grid layouts and responsive design techniques.
+
 GitHub Pages: For hosting the static website.
 
 Usage
